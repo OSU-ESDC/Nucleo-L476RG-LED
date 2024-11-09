@@ -6,8 +6,7 @@ The following describes the entire build process:
 #### Clone the repository 
 ```
 git clone git@github.com:OSU-Embedded-Systems-Design-Club/Nucleo-L476RG-LED.git
-cd Nucleo-L476RG-LED
-cd src
+cd Nucleo-L476RG-LED/src
 make
 ```
 
