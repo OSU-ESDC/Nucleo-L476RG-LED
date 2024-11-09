@@ -1,6 +1,6 @@
-This repository contains some code that can run on a NUCLEO-L476RG board, and turns on an LED. 
+This repository contains some code that can run on a Nucleo-L476RG board, and turns on an LED. 
 
-To run this program on the NUCLEO-L476RG board:
+To run this program on the Nucleo-L476RG board:
 
 ### For Linux users:
 #### Clone the repository 
@@ -21,5 +21,7 @@ For client:
 ```
 make client
 ```
-
-###### In the client
+```
+(gdb) start
+```
+-> should now see the green LED on the Nucleo-L476RG board light up!  
