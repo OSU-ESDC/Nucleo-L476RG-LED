@@ -1,4 +1,4 @@
-This repository contains some code that can run on a Nucleo-L476RG board, and turns on an LED. 
+## This repository contains some code that can run on a Nucleo-L476RG board, and turns on an LED. 
 
 The following describes the entire build process:
 
