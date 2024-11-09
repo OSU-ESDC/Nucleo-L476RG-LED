@@ -1,6 +1,6 @@
 This repository contains some code that can run on a Nucleo-L476RG board, and turns on an LED. 
 
-Build Process from start to flashing the mcu:
+Build Process from cloning this repo to flashing the mcu:
 
 ### For Linux users:
 #### Clone the repository 
