@@ -16,7 +16,13 @@ For server:
 make load
 ```
 
-For client:
+For client:  
+###### To open a folder from WSL in VScode, just cd into that folder and use the command:
+```
+code .
+```
+  
+
 ```
 make client
 ```
@@ -25,7 +31,3 @@ make client
 ```
 -> should now see the green LED on the Nucleo-L476RG board light up!  
 
-###### To open a folder from WSL in VScode, just cd into that folder and use the command:
-```
-code .
-```
