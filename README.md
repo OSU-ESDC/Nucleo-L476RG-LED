@@ -21,7 +21,7 @@ make load
 code .
 ```
 
-For client:  
+For client (either in other WSL terminal or in VSCode terminal):  
 
 ```
 make client
@@ -29,5 +29,5 @@ make client
 ```
 (gdb) start
 ```
--> should now see the green LED on the Nucleo-L476RG board light up!  
+-> should now see the green LED on the Nucleo-L476RG board flash!  
 
