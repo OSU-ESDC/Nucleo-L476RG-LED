@@ -24,3 +24,8 @@ make client
 (gdb) start
 ```
 -> should now see the green LED on the Nucleo-L476RG board light up!  
+
+###### To open a folder from WSL in VScode, just cd into that folder and use the command:
+```
+code .
+```
