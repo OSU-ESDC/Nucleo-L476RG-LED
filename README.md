@@ -16,12 +16,12 @@ For server:
 make load
 ```
 
-For client:  
 ###### To open a folder from WSL in VScode, just cd into that folder and use the command:
 ```
 code .
 ```
-  
+
+For client:  
 
 ```
 make client
