@@ -16,10 +16,7 @@ For server:
 make load
 ```
 
-###### To open a folder from WSL in VScode, just cd into that folder and use the command:
-```
-code .
-```
+###### To open a folder from WSL in VScode, just cd into that folder and use the command: `code .`
 
 For client (either in other WSL terminal or in VSCode terminal):  
 
