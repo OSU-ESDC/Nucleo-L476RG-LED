@@ -4,7 +4,7 @@ The following describes the entire build process:
 
 ### Clone the repository 
 ```
-git clone git@github.com:OSU-ESDC/Nucleo-L476RG-LED.git
+git clone git@github.com:osu-esdc/Nucleo-L476RG-LED.git
 cd Nucleo-L476RG-LED/src
 make
 ```
